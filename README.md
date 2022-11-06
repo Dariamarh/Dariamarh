@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 <h2> Hey there! I'm Daria Marchashov</h2>
 
@@ -34,4 +34,3 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
