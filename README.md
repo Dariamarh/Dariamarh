@@ -9,9 +9,10 @@
 - 🌱 &nbsp; Most of my projects are available at My Portfolio
 - ✍️ &nbsp; How to reach me dasha13@gmail.com
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
 
 <br/>
+<br/>
+<h3> 🛠 &nbsp;Tech Stack</h3>
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
