@@ -7,7 +7,7 @@
 - 💼 &nbsp; I continue to learn and develop my skills in React.js, Vue.js and Angular
 - 🎓 &nbsp; I have B.Sc in Optometry
 - 🌱 &nbsp; Most of my projects are available at My Portfolio
-- ✍️ &nbsp; How to reach me dasha13@gmail.com
+- ✍️ &nbsp; How to reach me - dasha13@gmail.com
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
